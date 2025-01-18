@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "Comprar cosas",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "task": "Comprar mas cosas",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "task": "Comprar mas mas cosas",
+    "status": "in-progress"
+  }
+]
